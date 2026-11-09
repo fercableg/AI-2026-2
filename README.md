@@ -51,7 +51,7 @@ IA/
 |---|---|---|---|
 | 1 | 1. Redes Bayesianas | Adult | https://archive.ics.uci.edu/dataset/2/adult |
 | 1 | 2. Markov / HMM | Appliances Energy Prediction | https://archive.ics.uci.edu/dataset/374/appliances+energy+prediction |
-| 1 | 3. Monte Carlo | — (datos simulados) | — |
+| 1 | 3. Monte Carlo | Datos simulados | N/A |
 | 2 | 1. Regresión lineal y logística | Default of Credit Card Clients | https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients |
 | 2 | 2. Supervisado vs semisupervisado | Letter Recognition | https://archive.ics.uci.edu/dataset/59/letter+recognition |
 | 2 | 3. Clustering no supervisado | Open-Meteo (Santiago) | https://open-meteo.com/ |
@@ -76,7 +76,7 @@ Librerías principales por tarea:
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <URL_DEL_REPO>
+git clone https://github.com/fercableg/AI-2026-2.git
 cd IA
 ```
 
@@ -128,8 +128,6 @@ Cuando el entorno está activo, aparece `(venv_ia)` al inicio de la línea de la
 python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
-
-> Para la Tarea 3 se necesita además un framework de deep learning (`tensorflow` o `pytorch`), que no está incluido en `requirements.txt`. Instálalo según tu sistema.
 
 ### 5. Registrar el kernel de Jupyter
 
