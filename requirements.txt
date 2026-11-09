@@ -1,0 +1,12 @@
+# Dependencias comunes a las tareas 1 y 2.
+# Para la Tarea 3 agregar el framework de deep learning (tensorflow o torch).
+
+numpy
+pandas
+matplotlib
+scikit-learn
+pgmpy
+hmmlearn
+ucimlrepo
+xlrd
+ipykernel
