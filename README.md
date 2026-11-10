@@ -4,10 +4,10 @@ Universidad Diego Portales, Facultad de Ingeniería y Ciencias, segundo semestre
 
 ## Integrantes
 
-- Fernando Cabrera Legue (T1, T2 y T3)
-- Magdalena Correa (T2 y T3)
-- Martin Melo (T2 y T3)
-- Nhayara Ramos (T1)
+- Fernando Cabrera Legue (T1, T2 y T3) - Sección 1
+- Magdalena Correa (T2 y T3) - Sección 2
+- Martin Melo (T2 y T3) - Sección 2
+- Nhayara Ramos (T1) - Sección 2
 
 ## Descripción
 
