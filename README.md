@@ -16,7 +16,7 @@ Repositorio con las tres tareas del curso **Inteligencia Artificial**. Cada tare
 | Tarea | Contenido | Entrega |
 |---|---|---|
 | 1 | Redes Bayesianas, cadenas de Markov / HMM y método de Monte Carlo | `Tarea_1/Fernando_Cabrera_Nhayara_Ramos_Tarea1.ipynb` |
-| 2 | Aprendizaje supervisado, semisupervisado y no supervisado | `Tarea_2/Part1.ipynb`, `Tarea_2/Part2.ipynb`, `Tarea_2/Part3.ipynb` |
+| 2 | Aprendizaje supervisado, semisupervisado y no supervisado | `Tarea_2/Fernando_Cabrera_Magdalena_Correa_Martin_Melo_Tarea2.ipynb` |
 | 3 | Redes neuronales convolucionales (CNN) para clasificación de imágenes | Pendiente |
 
 ## Contenido del repositorio
@@ -33,9 +33,7 @@ IA/
 │   │   ├── default of credit card clients.xls
 │   │   ├── letter-recognition.data
 │   │   └── open-meteo-33.36S70.56W906m.csv
-│   ├── Part1.ipynb
-│   ├── Part2.ipynb
-│   ├── Part3.ipynb
+│   ├── Fernando_Cabrera_Magdalena_Correa_Martin_Melo_Tarea2.ipynb
 │   ├── Rúbrica_T2_IA_2026_2.pdf
 │   └── T2_IA2026-2.pdf
 ├── Tarea_3/
